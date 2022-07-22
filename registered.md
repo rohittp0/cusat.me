@@ -2,3 +2,8 @@
  - [rohit.cusat.me](https://rohit.cusat.me)
  - [varsha.cusat.me](https://varsha.cusat.me)
  - [heera.cusat.me](https://heera.cusat.me)
+ - [sanumuhammedc.cusat.me](https://sanumuhammedc.cusat.me)
+ - [danwand.cusat.me](https://danwand.cusat.me)
+ - [ajnasnb.cusat.me](http://ajnasnb.cusat.me)
+ - [sanumuhammedc.cusat.me](https://sanumuhammedc.cusat.me)
+ - [sreya.cusat.me](https://sreya.cusat.me)
